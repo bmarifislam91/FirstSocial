@@ -1,0 +1,142 @@
+export const Users =[
+    {
+    id:1,
+    profilePicture: "assets/person/1.jpeg",
+    username: "Bm Arif",
+    },
+    {
+        id:2,
+        profilePicture: "assets/person/2.jpeg",
+        username: "Bm Sayful",
+    },
+    {
+        id:3,
+        profilePicture: "assets/person/3.jpeg",
+        username: "Jr Arif",
+    },
+    {
+        id:4,
+        profilePicture: "assets/person/4.jpeg",
+        username: "Mitu Aslam",
+    },
+    {
+        id:5,
+        profilePicture: "assets/person/5.jpeg",
+        username: "yasin Arafat",
+    },
+    {
+        id:6,
+        profilePicture: "assets/person/6.jpeg",
+        username: "Md Sahidul",
+    },
+    {
+        id:7,
+        profilePicture: "assets/person/7.jpeg",
+        username: "Rj Sabbir",
+    },
+    {
+        id:8,
+        profilePicture: "assets/person/8.jpeg",
+        username: "Arifa Jahan",
+    },
+    {
+        id:9,
+        profilePicture: "assets/person/9.jpeg",
+        username: "Ahanaf Kagi",
+    },
+    {
+        id:10,
+        profilePicture: "assets/person/10.jpeg",
+        username: "Abdullah js",
+    }
+];
+
+export const Posts = [
+    {
+        id:1,
+        desc: "Love Form All, How are you",
+        photo: "assets/post/1.jpeg",
+        date: "5 mins ago",
+        userId: 1,
+        like: 32,
+        comment: 9,
+    },
+    {
+        id:2,
+        photo: "assets/post/2.jpeg",
+        date: "15 mins ago",
+        userId: 2,
+        like: 22,
+        comment: 3,
+    },
+    {
+        id:3,
+        photo: "assets/post/3.jpeg",
+        date: "9 mins ago",
+        userId: 3,
+        like: 16,
+        comment: 7,
+    },
+    {
+        id:4,
+        desc: "hey i am a single",
+        photo: "assets/post/4.jpeg",
+        date: "1 day ago",
+        userId: 4,
+        like: 50,
+        comment: 41,
+    },
+    {
+        id:5,
+        desc: "hey i am a single",
+        photo: "assets/post/5.jpeg",
+        date: "2 mins ago",
+        userId: 5,
+        like: 20,
+        comment: 11,
+    },
+    {
+        id:6,
+        desc: "hello How are you",
+        photo: "assets/post/6.jpeg",
+        date: "few second ago",
+        userId: 6,
+        like: 2,
+        comment: 1,
+    },
+    {
+        id:7,
+        desc: "hey are you single",
+        photo: "assets/post/7.jpeg",
+        date: "2 day ago",
+        userId: 7,
+        like: 50,
+        comment: 41,
+    },
+    {
+        id:8,
+        desc: "hey i am a single",
+        photo: "assets/post/8.jpeg",
+        date: "just now",
+        userId: 8,
+        like: 10,
+        comment: 4,
+    },
+    {
+        id:9,
+        desc: "worderful",
+        photo: "assets/post/9.jpeg",
+        date: "5 days ago",
+        userId: 9,
+        like: 23,
+        comment: 15,
+    },
+    {
+        id:10,
+        photo: "assets/post/10.jpeg",
+        date: "8 mins ago",
+        userId: 10,
+        like: 24,
+        comment: 17,
+    }
+]
